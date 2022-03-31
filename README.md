@@ -12,6 +12,14 @@ Download rust:
 
 `rustc --version`
 
+check the version of Rust
+
 `cargo --version`
 
+check the version of cargo, the rust Packet Manager
+
 `cargo install crispr_guessing_game`
+
+installs the rust binary
+
+run now the game with: `crispr_guessing_game`
