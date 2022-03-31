@@ -4,3 +4,14 @@
 Its a simple guessing game :)
 
 The GitHub repo: <https://github.com/CrispiCas/guessing_game>
+
+How to Install:
+
+Download rust:
+<https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe>
+
+`rustc --version`
+
+`cargo --version`
+
+`cargo install crispr_guessing_game`
