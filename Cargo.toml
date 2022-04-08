@@ -1,6 +1,6 @@
 [package]
 name = "crispr_guessing_game" #crispr_guessing_game
-version = "1.1.2"
+version = "1.2.1"
 edition = "2021"
 description= "My first small rust project"
 license= "MIT"
